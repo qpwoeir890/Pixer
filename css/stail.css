@@ -384,6 +384,108 @@ main .sectione-4 .box .carte .carte .bu:hover {
   color: rgb(0, 186, 252);
   border: 2px solid rgb(0, 186, 252);
 }
+main .box {
+  max-width: 1100px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+main .box .text-11 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  margin: 72px 0px 0px 0px;
+}
+main .box .text-12 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 16px 0px 72px 0px;
+}
+main .sectione-11 {
+  background-color: rgb(244, 244, 244);
+  width: auto;
+  height: 2274px;
+}
+main .sectione-11 .blok {
+  max-width: 1100px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+main .sectione-11 .blok .cart {
+  width: 804px;
+  height: 378px;
+  padding: 32px 0px 0px 32px;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 10px 20px #afafaf;
+  display: flex;
+  margin: 80px 0px 0px 125px;
+}
+main .sectione-11 .blok .cart .img {
+  width: 200px;
+  height: 128px;
+}
+main .sectione-11 .blok .cart .box .text-13 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+}
+main .sectione-11 .blok .cart .box .text-14 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 16px 0px 8px 0px;
+}
+main .sectione-11 .blok .cart .box .text-_ {
+  display: flex;
+  margin: 8px 0px 0px 0px;
+}
+main .sectione-11 .blok .cart .box .text-_ .text-15 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0px 0px 0px 5px;
+}
+main .sectione-11 .blok .cart .box .but {
+  margin: 16px 0px 0px 0px;
+}
+main .sectione-11 .blok .cart .box .but .but-2 {
+  width: 167px;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  gap: 10px;
+  border-radius: 5px;
+  background-color: rgb(0, 186, 252);
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  border: none;
+  transition: 1s;
+}
+main .sectione-11 .blok .cart .box .but .but-2:hover {
+  box-shadow: 0px 0px 10px rgb(0, 186, 252);
+  background-color: #fff;
+  color: rgb(0, 186, 252);
+  border: 2px solid rgb(0, 186, 252);
+}
+main .sectione-11 .blok .cart .box .but .link {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(0, 186, 252);
+  transition: 0.5s;
+}
+main .sectione-11 .blok .cart .box .but .link:hover {
+  text-shadow: 0 0 10px rgb(0, 186, 252);
+}
 
 footer {
   background-color: rgb(25, 25, 25);
